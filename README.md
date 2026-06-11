@@ -1,2 +1,1 @@
-# xiangyang
-mechanical industry
+# THD-PINN代码
